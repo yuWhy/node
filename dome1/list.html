@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>用户列表</title>
+</head>
+<body>
+    <div>
+        <a type="button">添加用户</a>
+        <table>
+            <thead>
+                <tr>
+                    <th>用户名</th>
+                    <th>年龄</th>
+                    <th>爱好</th>
+                    <th>邮箱</th>
+                    <th>操作</th>
+                <tr/>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>张三</td>
+                    <td>20</td>
+                    <td>看书 喝酒</td>
+                    <td>zhangsan@qq.com</td>
+                    <td>
+                        <button>删除</button>
+                        <button>修改</button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div>
+        <form action="/add" method="post">
+            <span>用户名</span>
+            <input type="text" name="name"/>
+            <span>年龄</span>
+            <input type="number" name="age" />
+            <span>邮箱</span>
+            <input type="text" name="email" />
+            <span>爱好</span>
+            <div>
+                <label>
+                    <span>抽烟</span>
+                    <input type="checkbox" name="like">
+                </label>
+                <label>
+                    <span>喝酒</span>
+                    <input type="checkbox" name="like">
+                </label>
+                <label>
+                    <span>烫头</span>
+                    <input type="checkbox" name="like">
+                </label>
+                <label>
+                    <span>学习</span>
+                    <input type="checkbox" name="like">
+                </label>
+                <label>
+                    <span>看书</span>
+                    <input type="checkbox" name="like">
+                </label>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,10 @@
+const mongoose = require('mongoose');
+
+mongoose.connect('mongodb://localhost/testMongod1')
+        .then(() => {
+            console.log('success')
+        })
+        .catch((err) => {
+            console.log('filed');
+            console.log(err);
+        })
