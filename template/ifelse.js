@@ -5,10 +5,9 @@ const path = require('path');
 // {{数据}}
 //原始语法
 //<%=数据%>
-var view = path.join(__dirname, 'views', 'index.art');
+var view = path.join(__dirname, 'views', 'ifelse.art');
 var a = template(view, {
-    name: '张三',
-    age: 22,
-    content: '<h1>html</h1>'
+    name: '张山',
+    age: 20
 });
 console.log(a);

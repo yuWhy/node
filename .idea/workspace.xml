@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dfc1a349-c593-46c8-9d8a-f2e1ddf48e13" name="默认更改列表" comment="" />
+    <list default="true" id="dfc1a349-c593-46c8-9d8a-f2e1ddf48e13" name="默认更改列表" comment="模板引擎2">
+      <change afterPath="$PROJECT_DIR$/template/extend.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/for.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/ifelse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/import.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/includeT.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/views/common/extend.art" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/views/common/extend2.art" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/views/common/foot.art" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/views/common/heard.art" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/views/css/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/views/css/cs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/views/extend.art" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/views/for.art" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/views/ifelse.art" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/views/import.art" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/views/includeT.art" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/template/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/views/index.art" beforeDir="false" afterPath="$PROJECT_DIR$/template/views/index.art" afterDir="false" />
+    </list>
+    <list id="6ab8708a-46ef-4632-a4b4-406f48c66104" name="ignore" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,10 +37,43 @@
         <option value="tsconfig.json" />
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="Art" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/.idea/workspace.xml">
+      <ranges>
+        <range start1="3" end1="4" start2="3" end2="26" changelist="6ab8708a-46ef-4632-a4b4-406f48c66104" />
+        <range start1="15" end1="15" start2="37" end2="38" changelist="6ab8708a-46ef-4632-a4b4-406f48c66104" />
+        <range start1="17" end1="17" start2="40" end2="68" changelist="6ab8708a-46ef-4632-a4b4-406f48c66104" />
+        <range start1="19" end1="19" start2="70" end2="73" changelist="6ab8708a-46ef-4632-a4b4-406f48c66104" />
+        <range start1="27" end1="27" start2="81" end2="82" changelist="6ab8708a-46ef-4632-a4b4-406f48c66104" />
+        <range start1="38" end1="38" start2="93" end2="94" changelist="6ab8708a-46ef-4632-a4b4-406f48c66104" />
+        <range start1="47" end1="47" start2="103" end2="104" changelist="6ab8708a-46ef-4632-a4b4-406f48c66104" />
+        <range start1="54" end1="55" start2="111" end2="112" changelist="6ab8708a-46ef-4632-a4b4-406f48c66104" />
+        <range start1="56" end1="56" start2="113" end2="121" changelist="6ab8708a-46ef-4632-a4b4-406f48c66104" />
+        <range start1="61" end1="61" start2="126" end2="130" changelist="6ab8708a-46ef-4632-a4b4-406f48c66104" />
+        <range start1="66" end1="67" start2="135" end2="136" changelist="6ab8708a-46ef-4632-a4b4-406f48c66104" />
+        <range start1="69" end1="70" start2="138" end2="139" changelist="6ab8708a-46ef-4632-a4b4-406f48c66104" />
+        <range start1="74" end1="75" start2="143" end2="144" changelist="6ab8708a-46ef-4632-a4b4-406f48c66104" />
+        <range start1="77" end1="79" start2="146" end2="148" changelist="dfc1a349-c593-46c8-9d8a-f2e1ddf48e13" />
+        <range start1="81" end1="82" start2="150" end2="151" changelist="dfc1a349-c593-46c8-9d8a-f2e1ddf48e13" />
+        <range start1="86" end1="86" start2="155" end2="159" changelist="6ab8708a-46ef-4632-a4b4-406f48c66104" />
+        <range start1="89" end1="91" start2="162" end2="164" changelist="6ab8708a-46ef-4632-a4b4-406f48c66104" />
+        <range start1="93" end1="94" start2="166" end2="171" changelist="6ab8708a-46ef-4632-a4b4-406f48c66104" />
+      </ranges>
+    </file>
+  </component>
   <component name="ProjectId" id="1Z3t3iGvP90KQYzUPY2sJZvmKwQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,8 +82,10 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -36,6 +95,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\node\template\views" />
       <recent name="D:\node\gulp\src" />
     </key>
   </component>
@@ -45,6 +105,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="dfc1a349-c593-46c8-9d8a-f2e1ddf48e13" name="默认更改列表" comment="" />
+      <changelist id="6ab8708a-46ef-4632-a4b4-406f48c66104" name="ignore" comment="" />
       <created>1584079407829</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -52,34 +113,47 @@
       <workItem from="1584079411372" duration="14330000" />
       <workItem from="1584325254860" duration="12852000" />
       <workItem from="1584357784096" duration="4302000" />
-      <workItem from="1584412550346" duration="3839000" />
+      <workItem from="1584412550346" duration="15825000" />
     </task>
+    <task id="LOCAL-00001" summary="模板引擎">
+      <created>1584429688081</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584429688081</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="模板引擎" />
+    <MESSAGE value="模板引擎2" />
+    <option name="LAST_COMMIT_MESSAGE" value="模板引擎2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="894" y="176" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584428340167">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="894" y="176" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1584428340167" />
-    <state x="322" y="130" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1584428023726">
+    <state x="322" y="130" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1584431730307">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="322" y="130" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1366.728@0.0.1366.728" timestamp="1584428023726" />
+    <state x="322" y="130" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1366.728@0.0.1366.728" timestamp="1584431730307" />
     <state x="0" y="0" key="#代码模板" timestamp="1584428720897">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="0" y="0" key="#代码模板/0.0.1366.728@0.0.1366.728" timestamp="1584428720897" />
-    <state x="298" y="0" key="CommitChangelistDialog2" timestamp="1584429565699">
+    <state x="298" y="0" key="CommitChangelistDialog2" timestamp="1584448674829">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="298" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584429565699" />
-    <state x="537" y="279" key="VCS.ChangelistChooser" timestamp="1584429527933">
+    <state x="298" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584448674829" />
+    <state x="537" y="279" key="VCS.ChangelistChooser" timestamp="1584448783932">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="537" y="279" key="VCS.ChangelistChooser/0.0.1366.728@0.0.1366.728" timestamp="1584429527933" />
+    <state x="537" y="279" key="VCS.ChangelistChooser/0.0.1366.728@0.0.1366.728" timestamp="1584448783932" />
     <state x="513" y="233" key="VCS.EditChangelistDialog" timestamp="1584429445404">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

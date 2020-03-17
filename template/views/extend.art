@@ -1,0 +1,8 @@
+{{extend './common/extend.art'}}
+
+{{block 'headlink'}}
+<link rel="stylesheet" href="./css/cs.css">
+{{/block}}
+{{block 'content'}}
+<p>{{name}}</p>
+{{/block}}

@@ -5,7 +5,13 @@
     <title></title>
 </head>
 <body>
-{{name}}
-{{age}}
+    {{name}}
+    {{age}}
+    <!--标准语法 解析HTML-->
+    <p>{{content}}</p>
+    <p>{{@content}}</p>
+    <!--原始语法 解析HTML-->
+    <p><%=content%></p>
+    <p><%-content%></p>
 </body>
 </html>

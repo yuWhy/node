@@ -1,0 +1,1 @@
+<p>{{ dateformat(times, 'yyyy-mm-dd')}}</p>

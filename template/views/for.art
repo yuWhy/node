@@ -1,0 +1,12 @@
+<!--标准语法 for-->
+<ul>
+    {{each users}}
+    <li>{{index}}、{{$value.name}}+{{$value.age}}</li>
+    {{/each}}
+</ul>
+<!--原始语法 for-->
+<ul>
+    <% for (var i = 0; i < users.length; i++){ %>
+    <li> <%=i%>、<%=users[i].name%>+<%=users[i].age%></li>
+    <%}%>
+</ul>
