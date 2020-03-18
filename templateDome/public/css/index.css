@@ -1,0 +1,16 @@
+.listBox {
+    width: 90%;
+    margin: 0 auto;
+}
+.listTable {
+    width: 100%;
+}
+.listTable tr {
+    width: 100%;
+    display: flex;
+}
+.listTable tr th,
+.listTable tr td {
+    flex: 1;
+    text-align: center;
+}

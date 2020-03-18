@@ -1,29 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dfc1a349-c593-46c8-9d8a-f2e1ddf48e13" name="默认更改列表" comment="模板引擎2">
-      <change afterPath="$PROJECT_DIR$/template/extend.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template/for.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template/ifelse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template/import.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template/includeT.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template/views/common/extend.art" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template/views/common/extend2.art" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template/views/common/foot.art" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template/views/common/heard.art" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template/views/css/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template/views/css/cs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template/views/extend.art" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template/views/for.art" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template/views/ifelse.art" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template/views/import.art" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template/views/includeT.art" afterDir="false" />
+    <list default="true" id="dfc1a349-c593-46c8-9d8a-f2e1ddf48e13" name="默认更改列表" comment="模板引擎4 例子">
+      <change afterPath="$PROJECT_DIR$/templateDome/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templateDome/model/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templateDome/public/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templateDome/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templateDome/server/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templateDome/views/index.art" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templateDome/views/layout.art" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/template/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/views/index.art" beforeDir="false" afterPath="$PROJECT_DIR$/template/views/index.art" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dome1/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/dome1/list.html" afterDir="false" />
     </list>
     <list id="6ab8708a-46ef-4632-a4b4-406f48c66104" name="ignore" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/views/css/.editorconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,9 +27,9 @@
       <list>
         <option value="tsconfig.json" />
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="Art" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -49,24 +40,23 @@
   <component name="LineStatusTrackerManager">
     <file path="$PROJECT_DIR$/.idea/workspace.xml">
       <ranges>
-        <range start1="3" end1="4" start2="3" end2="26" changelist="6ab8708a-46ef-4632-a4b4-406f48c66104" />
-        <range start1="15" end1="15" start2="37" end2="38" changelist="6ab8708a-46ef-4632-a4b4-406f48c66104" />
-        <range start1="17" end1="17" start2="40" end2="68" changelist="6ab8708a-46ef-4632-a4b4-406f48c66104" />
-        <range start1="19" end1="19" start2="70" end2="73" changelist="6ab8708a-46ef-4632-a4b4-406f48c66104" />
-        <range start1="27" end1="27" start2="81" end2="82" changelist="6ab8708a-46ef-4632-a4b4-406f48c66104" />
-        <range start1="38" end1="38" start2="93" end2="94" changelist="6ab8708a-46ef-4632-a4b4-406f48c66104" />
-        <range start1="47" end1="47" start2="103" end2="104" changelist="6ab8708a-46ef-4632-a4b4-406f48c66104" />
-        <range start1="54" end1="55" start2="111" end2="112" changelist="6ab8708a-46ef-4632-a4b4-406f48c66104" />
-        <range start1="56" end1="56" start2="113" end2="121" changelist="6ab8708a-46ef-4632-a4b4-406f48c66104" />
-        <range start1="61" end1="61" start2="126" end2="130" changelist="6ab8708a-46ef-4632-a4b4-406f48c66104" />
-        <range start1="66" end1="67" start2="135" end2="136" changelist="6ab8708a-46ef-4632-a4b4-406f48c66104" />
-        <range start1="69" end1="70" start2="138" end2="139" changelist="6ab8708a-46ef-4632-a4b4-406f48c66104" />
-        <range start1="74" end1="75" start2="143" end2="144" changelist="6ab8708a-46ef-4632-a4b4-406f48c66104" />
-        <range start1="77" end1="79" start2="146" end2="148" changelist="dfc1a349-c593-46c8-9d8a-f2e1ddf48e13" />
-        <range start1="81" end1="82" start2="150" end2="151" changelist="dfc1a349-c593-46c8-9d8a-f2e1ddf48e13" />
-        <range start1="86" end1="86" start2="155" end2="159" changelist="6ab8708a-46ef-4632-a4b4-406f48c66104" />
-        <range start1="89" end1="91" start2="162" end2="164" changelist="6ab8708a-46ef-4632-a4b4-406f48c66104" />
-        <range start1="93" end1="94" start2="166" end2="171" changelist="6ab8708a-46ef-4632-a4b4-406f48c66104" />
+        <range start1="3" end1="20" start2="3" end2="11" changelist="dfc1a349-c593-46c8-9d8a-f2e1ddf48e13" />
+        <range start1="21" end1="23" start2="12" end2="13" changelist="dfc1a349-c593-46c8-9d8a-f2e1ddf48e13" />
+        <range start1="26" end1="26" start2="16" end2="17" changelist="dfc1a349-c593-46c8-9d8a-f2e1ddf48e13" />
+        <range start1="38" end1="39" start2="29" end2="29" changelist="dfc1a349-c593-46c8-9d8a-f2e1ddf48e13" />
+        <range start1="41" end1="41" start2="31" end2="32" changelist="dfc1a349-c593-46c8-9d8a-f2e1ddf48e13" />
+        <range start1="51" end1="69" start2="42" end2="59" changelist="dfc1a349-c593-46c8-9d8a-f2e1ddf48e13" />
+        <range start1="97" end1="97" start2="87" end2="89" changelist="dfc1a349-c593-46c8-9d8a-f2e1ddf48e13" />
+        <range start1="101" end1="101" start2="93" end2="103" changelist="dfc1a349-c593-46c8-9d8a-f2e1ddf48e13" />
+        <range start1="115" end1="116" start2="117" end2="118" changelist="dfc1a349-c593-46c8-9d8a-f2e1ddf48e13" />
+        <range start1="124" end1="125" start2="126" end2="141" changelist="dfc1a349-c593-46c8-9d8a-f2e1ddf48e13" />
+        <range start1="133" end1="134" start2="149" end2="152" changelist="dfc1a349-c593-46c8-9d8a-f2e1ddf48e13" />
+        <range start1="148" end1="149" start2="166" end2="203" changelist="dfc1a349-c593-46c8-9d8a-f2e1ddf48e13" />
+        <range start1="151" end1="153" start2="205" end2="207" changelist="dfc1a349-c593-46c8-9d8a-f2e1ddf48e13" />
+        <range start1="155" end1="156" start2="209" end2="238" changelist="dfc1a349-c593-46c8-9d8a-f2e1ddf48e13" />
+        <range start1="160" end1="160" start2="242" end2="246" changelist="dfc1a349-c593-46c8-9d8a-f2e1ddf48e13" />
+        <range start1="163" end1="165" start2="249" end2="255" changelist="6ab8708a-46ef-4632-a4b4-406f48c66104" />
+        <range start1="167" end1="168" start2="257" end2="262" changelist="6ab8708a-46ef-4632-a4b4-406f48c66104" />
       </ranges>
     </file>
   </component>
@@ -95,9 +85,21 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\node\templateDome\public" />
+      <recent name="D:\node\templateDome" />
       <recent name="D:\node\template\views" />
       <recent name="D:\node\gulp\src" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/templateDome/app.js" working-dir="$PROJECT_DIR$/templateDome">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.app.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -113,7 +115,7 @@
       <workItem from="1584079411372" duration="14330000" />
       <workItem from="1584325254860" duration="12852000" />
       <workItem from="1584357784096" duration="4302000" />
-      <workItem from="1584412550346" duration="15825000" />
+      <workItem from="1584412550346" duration="26790000" />
     </task>
     <task id="LOCAL-00001" summary="模板引擎">
       <created>1584429688081</created>
@@ -122,7 +124,21 @@
       <option name="project" value="LOCAL" />
       <updated>1584429688081</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="模板引擎2">
+      <created>1584448800345</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584448800345</updated>
+    </task>
+    <task id="LOCAL-00003" summary="模板引擎3 例子">
+      <created>1584514876700</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584514876700</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,7 +147,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="模板引擎" />
     <MESSAGE value="模板引擎2" />
-    <option name="LAST_COMMIT_MESSAGE" value="模板引擎2" />
+    <MESSAGE value="模板引擎3 例子" />
+    <MESSAGE value="模板引擎4 例子" />
+    <option name="LAST_COMMIT_MESSAGE" value="模板引擎4 例子" />
   </component>
   <component name="WindowStateProjectService">
     <state x="894" y="176" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584428340167">
@@ -146,18 +164,86 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="0" y="0" key="#代码模板/0.0.1366.728@0.0.1366.728" timestamp="1584428720897" />
-    <state x="298" y="0" key="CommitChangelistDialog2" timestamp="1584448674829">
+    <state x="298" y="0" key="CommitChangelistDialog2" timestamp="1584515154439">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="298" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584448674829" />
-    <state x="537" y="279" key="VCS.ChangelistChooser" timestamp="1584448783932">
+    <state x="298" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584515154439" />
+    <state width="1345" height="223" key="GridCell.Tab.0.bottom" timestamp="1584498003895">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="537" y="279" key="VCS.ChangelistChooser/0.0.1366.728@0.0.1366.728" timestamp="1584448783932" />
+    <state width="1345" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584498003895" />
+    <state width="1345" height="223" key="GridCell.Tab.0.center" timestamp="1584498003895">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584498003895" />
+    <state width="1345" height="223" key="GridCell.Tab.0.left" timestamp="1584498003895">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584498003895" />
+    <state width="1345" height="223" key="GridCell.Tab.0.right" timestamp="1584498003895">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584498003895" />
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1584498003896">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584498003896" />
+    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1584498003896">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1584498003896" />
+    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1584498003895">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1584498003895" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1584498003896">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584498003896" />
+    <state width="1345" height="223" key="GridCell.Tab.2.bottom" timestamp="1584498003897">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584498003897" />
+    <state width="1345" height="223" key="GridCell.Tab.2.center" timestamp="1584498003896">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1584498003896" />
+    <state width="1345" height="223" key="GridCell.Tab.2.left" timestamp="1584498003896">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1584498003896" />
+    <state width="1345" height="223" key="GridCell.Tab.2.right" timestamp="1584498003896">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1584498003896" />
+    <state width="1345" height="223" key="GridCell.Tab.3.bottom" timestamp="1584498003897">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.3.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584498003897" />
+    <state width="1345" height="223" key="GridCell.Tab.3.center" timestamp="1584498003897">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.3.center/0.0.1366.728@0.0.1366.728" timestamp="1584498003897" />
+    <state width="1345" height="223" key="GridCell.Tab.3.left" timestamp="1584498003897">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.3.left/0.0.1366.728@0.0.1366.728" timestamp="1584498003897" />
+    <state width="1345" height="223" key="GridCell.Tab.3.right" timestamp="1584498003897">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.3.right/0.0.1366.728@0.0.1366.728" timestamp="1584498003897" />
+    <state x="537" y="279" key="VCS.ChangelistChooser" timestamp="1584514842430">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="537" y="279" key="VCS.ChangelistChooser/0.0.1366.728@0.0.1366.728" timestamp="1584514842430" />
     <state x="513" y="233" key="VCS.EditChangelistDialog" timestamp="1584429445404">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="513" y="233" key="VCS.EditChangelistDialog/0.0.1366.728@0.0.1366.728" timestamp="1584429445404" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1584514888188">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584514888188" />
     <state x="475" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584427711141">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
