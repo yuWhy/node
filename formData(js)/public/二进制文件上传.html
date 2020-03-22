@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+    <div class="container">
+        <div class="form-group">
+            <label>请选择文件</label>
+            <input type="file" id="file">
+        </div>
+    </div>
+<script type="text/javascript">
+    var file =document.getElementById('file');
+    file.onchange = function(e) {
+        console.log(e);
+        var formData = new FormData();
+        console.log(this);
+        console.log(this.files);
+        formData.append('attrName', this.files[0]);
+        var xhr = new XMLHttpRequest();
+        xhr.open('post', 'http://localhost:3000/upload');
+        xhr.upload.onprogress = function(ev) {
+            // ev.loaded 文件已经上传了多少
+            // ev.total 上传文件的总大小
+        }
+        xhr.send(formData);
+    }
+</script>
+</body>
+</html>
